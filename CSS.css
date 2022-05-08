@@ -8,7 +8,7 @@ body{
     width: 100%;
     float: left;
     color: white;
-    background-image: url("../CV Feri/BG1.png");	
+    background-image: url("../CVFeri/BG1.png");	
     background-size: cover;
 }
 .wrapper_profile{
@@ -48,7 +48,7 @@ body{
 .hobbies{
     width: 100%;
 	color: white;
-	background-image: url("../CV Feri/BG3.jpeg");	
+	background-image: url("../CVFeri/BG3.jpeg");	
     background-size: cover;
     margin-top: 5px;
     float: left;
@@ -80,7 +80,7 @@ body{
 .skills_experience{
     width: 100%;
 	color: white;
-	background-image: url("../CV Feri/BG2.png");	
+	background-image: url("../CVFeri/BG2.png");	
     background-size: cover;
     margin-top: 5px;
     float: left;
@@ -152,7 +152,7 @@ body{
 .educations{
     width: 100%;
 	color: white;
-	background-image: url("../CV Feri/BG2.png");	
+	background-image: url("../CVFeri/BG2.png");	
     background-size: cover;
     margin-top: 5px;
     float: left;
@@ -161,7 +161,7 @@ body{
 .educations h3{
     text-align: center;
 	color: white;
-	background-image: url("../CV Feri/BG2.png");	
+	background-image: url("../CVFeri/BG2.png");	
     background-size: cover;
     padding:  20px;
     margin: 0;
@@ -189,7 +189,7 @@ body{
 
 .courses{
     width: 100%;
-	background-image: url("../CV Feri/BG2.png");	
+	background-image: url("../CVFeri/BG2.png");	
     background-size: cover;
     margin-top: 5px;
     float: left;
@@ -217,7 +217,7 @@ body{
 .portofolio{
     width: 100%;
 	color: white;
-	background-image: url("../CV Feri/BG3.jpeg");	
+	background-image: url("../CVFeri/BG3.jpeg");	
     background-size: cover;
     margin-top: 5px;
     float: left;
@@ -245,7 +245,7 @@ body{
 }
 .footer{
 	color: white;
-	background-image: url("../CV Feri/BG2.png");	
+	background-image: url("../CVFeri/BG2.png");	
     background-size: cover;
     background-position-y: center;
     height: 120px;
